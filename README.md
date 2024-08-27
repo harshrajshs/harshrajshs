@@ -16,20 +16,26 @@ Hello! I'm Harsh Raj, currently a 3rd-year B.Tech student majoring in Data Scien
 
 ## 🚀 Projects
 
-### VistaVibe - TV Shows Recommender System
-- **Objective**: Developed a TV shows recommender system integrating content-based and collaborative filtering.
-- **Technologies**: Python, Beautiful Soup, Requests, Pandas, Scikit-Learn, Firebase, HTML/CSS/JavaScript, Spark.
-- **Description**: Leverages TMDb data to offer tailored TV show suggestions. Features include user authentication, search functionality, genre-based browsing, and detailed show information with recommendations.
+### GreenSense: Smart Plant Monitoring System | IIT Guwahati
+- **Course Project by Prof. Arghyadip Roy**  
+  [Link to Project](https://shorturl.at/iZQn9)
+- **Objective**: Developed a smart plant monitoring system to analyze soil composition and plant health using sensors connected to an ESP32 microcontroller, providing recommendations to clients.
+- **Technologies**: Python, MQTT, MongoDB, Machine Learning, SMTP for client notifications.
+- **Description**: The system collects data such as soil composition and leaf images, processes it with a machine learning model. If the soil composition is not optimal, the client receives an email suggesting specific fertilizer restoration. Additionally, an image classifier detects plant diseases, sending an email to the client with the disease name, cause, and prevention technique.
+- **Role**: Created and trained ML models for disease detection and soil composition recommendation.
 
-### Secure File Sharing System
-- **Objective**: Built a secure file-sharing system to protect sensitive data during transmission.
-- **Technologies**: Python, Flask, Cryptography
-- **Description**: Implemented encryption algorithms to ensure data privacy and developed a web interface for easy file uploads and downloads.
+### TV Shows Recommender (VistaVibe) | IIT Guwahati
+- **Course Project by Prof. Chiranjib Sur**  
+  [Link to Project](https://shorturl.at/DwYry)
+- **Objective**: Developed VistaVibe, a TV shows recommender system using content-based filtering for personalized recommendations.
+- **Technologies**: Python, Pandas, Scikit-Learn, Firebase, HTML, CSS, JavaScript, Spark.
+- **Description**: Leveraged data from TMDb to offer tailored TV show suggestions. Features include content-based filtering using actor, overview, keywords, and tags. The system also supports user authentication via Firebase, search functionality, genre-based browsing, detailed show information with top 30 recommendations, and implemented the ALS algorithm for collaborative filtering.
 
-### Real-Time Traffic Prediction Model
-- **Objective**: Developed a model to predict real-time traffic conditions using historical data.
-- **Technologies**: Python, TensorFlow, Keras, Pandas, NumPy
-- **Description**: Utilized deep learning techniques to forecast traffic congestion, helping in efficient route planning.
+### IIT Analyser | IIT Guwahati
+- **Course Project by Prof. Debanga Raj Neog**  
+  [GitHub Link]
+- **Technologies**: HTML, CSS, PHP, SQL, JS, CanvasJS, ChartJS, Python.
+- **Objective**: Created a platform to provide institute suggestions, branch comparisons, old vs. new IITs analysis, student flow, and reservation analysis using historical data.
 
 ## 🎓 Education
 
