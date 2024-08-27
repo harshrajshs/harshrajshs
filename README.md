@@ -40,7 +40,7 @@ Hello! I'm Harsh Raj, currently a 3rd-year B.Tech student majoring in Data Scien
 ## 🎓 Education
 
 - **B.Tech in Data Science and Artificial Intelligence**  
-  [IIT Guwahati], [2021] - Present  
+  IIT Guwahati, 2021 - Present  
   - Relevant Courses: Machine Learning, Data Mining, Cryptography, Advanced Algorithms
 
 ## 🌱 What I'm Learning
