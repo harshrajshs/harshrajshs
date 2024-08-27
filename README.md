@@ -1,67 +1,91 @@
-# Harsh Raj
+<!-- Harsh Raj -->
 
-## 👋 About Me
+<!-- About Me -->
+================
+<h2>Hi! I'm Harsh Raj, a 3rd-year B.Tech student in Data Science and AI at IIT Guwahati.</h2>
+<p>I'm passionate about harnessing data to solve complex problems, with a focus on Privacy and Information Security.</p>
 
-Hello! I'm Harsh Raj, currently a 3rd-year B.Tech student majoring in Data Science and Artificial Intelligence. I'm passionate about harnessing the power of data to solve complex problems, with a particular interest in Privacy and Information Security. My academic journey has equipped me with a strong foundation in data analysis, machine learning, and AI, and I'm constantly exploring new technologies and methodologies to enhance my skills.
+<!-- Skills & Tech -->
+================
+<h3>Programming</h3>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+  <li>Java</li>
+</ul>
+<h3>Data Science</h3>
+<ul>
+  <li>NumPy</li>
+  <li>Pandas</li>
+  <li>Scikit-Learn</li>
+  <li>TensorFlow</li>
+  <li>PyTorch</li>
+</ul>
+<h3>Machine Learning</h3>
+<ul>
+  <li>Supervised & Unsupervised Learning</li>
+  <li>Neural Networks</li>
+  <li>NLP</li>
+</ul>
+<h3>Web Dev</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Flask</li>
+</ul>
+<h3>Database</h3>
+<ul>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+</ul>
+<h3>Privacy & Security</h3>
+<ul>
+  <li>Cryptography</li>
+  <li>Ethical Hacking</li>
+  <li>Data Privacy Techniques</li>
+</ul>
+<h3>Tools</h3>
+<ul>
+  <li>Git</li>
+  <li>Jupyter</li>
+  <li>Anaconda</li>
+  <li>Docker</li>
+</ul>
 
-## 🛠 Skills & Technologies
+<!-- Projects -->
+================
+<h2>GreenSense: Smart Plant Monitoring System (IIT Guwahati)</h2>
+<p>Developed a system to analyze soil composition and plant health using sensors and machine learning.</p>
+<ul>
+  <li>Tech: Python, MQTT, MongoDB, Machine Learning, SMTP</li>
+</ul>
+<h2>TV Shows Recommender (VistaVibe): Personalized TV show recommendations using content-based filtering (IIT Guwahati)</h2>
+<p>Tech: Python, Pandas, Scikit-Learn, Firebase, HTML, CSS, JavaScript, Spark</p>
+<ul>
+  <li>Tech: HTML, CSS, PHP, SQL, JS, CanvasJS, ChartJS, Python</li>
+</ul>
 
-- **Programming Languages**: Python, C++, Java
-- **Data Science**: NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
-- **Machine Learning**: Supervised & Unsupervised Learning, Neural Networks, Natural Language Processing
-- **Web Development**: HTML, CSS, JavaScript, Flask
-- **Database Management**: MySQL, MongoDB
-- **Privacy & Security**: Cryptography, Ethical Hacking, Data Privacy Techniques
-- **Tools & Platforms**: Git, Jupyter, Anaconda, Docker
+<!-- Education -->
+================
+<h3>B.Tech in Data Science and AI, IIT Guwahati (2021-Present)</h3>
 
-## 🚀 Projects
+<!-- What I'm Learning -->
+================
+<h3>Advanced Machine Learning Techniques</h3>
+<h3>Deep Learning</h3>
+<h3>Q-Learning for MEC task scheduling problem</h3>
 
-### GreenSense: Smart Plant Monitoring System | IIT Guwahati
-- **Course Project by Prof. Arghyadip Roy**  
-  [Link to Project](https://shorturl.at/iZQn9)
-- **Objective**: Developed a smart plant monitoring system to analyze soil composition and plant health using sensors connected to an ESP32 microcontroller, providing recommendations to clients.
-- **Technologies**: Python, MQTT, MongoDB, Machine Learning, SMTP for client notifications.
-- **Description**: The system collects data such as soil composition and leaf images, processes it with a machine learning model. If the soil composition is not optimal, the client receives an email suggesting specific fertilizer restoration. Additionally, an image classifier detects plant diseases, sending an email to the client with the disease name, cause, and prevention technique.
-- **Role**: Created and trained ML models for disease detection and soil composition recommendation.
+<!-- Get in Touch -->
+================
+<h3>Email: <a href="mailto:harsh.raj@iitg.ac.in">harsh.raj@iitg.ac.in</a></h3>
+<h3>LinkedIn: <a href="https://www.linkedin.com/in/harsh-raj-13b100241/">https://www.linkedin.com/in/harsh-raj-13b100241/</a></h3>
+<h3>GitHub: <a href="https://github.com/harshrajshs">https://github.com/harshrajshs</a></h3>
 
-### TV Shows Recommender (VistaVibe) | IIT Guwahati
-- **Course Project by Prof. Chiranjib Sur**  
-  [Link to Project](https://shorturl.at/DwYry)
-- **Objective**: Developed VistaVibe, a TV shows recommender system using content-based filtering for personalized recommendations.
-- **Technologies**: Python, Pandas, Scikit-Learn, Firebase, HTML, CSS, JavaScript, Spark.
-- **Description**: Leveraged data from TMDb to offer tailored TV show suggestions. Features include content-based filtering using actor, overview, keywords, and tags. The system also supports user authentication via Firebase, search functionality, genre-based browsing, detailed show information with top 30 recommendations, and implemented the ALS algorithm for collaborative filtering.
+<!-- Fun Fact -->
+================
+<h3>I love exploring new tech gadgets, reading about AI and cybersecurity, and experimenting with DIY electronics projects.</h3>
 
-### IIT Analyser | IIT Guwahati
-- **Course Project by Prof. Debanga Raj Neog**  
-  [GitHub Link]
-- **Technologies**: HTML, CSS, PHP, SQL, JS, CanvasJS, ChartJS, Python.
-- **Objective**: Created a platform to provide institute suggestions, branch comparisons, old vs. new IITs analysis, student flow, and reservation analysis using historical data.
-
-## 🎓 Education
-
-- **B.Tech in Data Science and Artificial Intelligence**  
-  IIT Guwahati, 2021 - Present  
-  - Relevant Courses: Machine Learning, Data Mining, Cryptography, Advanced Algorithms
-
-## 🌱 What I'm Learning
-
-- Advanced Machine Learning Techniques
-- Deep Learning
-- Q-Learning for optimal solution of MEC task scheduling problem
-
-## 📫 How to Reach Me
-
-- **Email**: [harsh.raj@iitg.ac.in]
-- **LinkedIn**: [https://www.linkedin.com/in/harsh-raj-13b100241/]
-- **GitHub**: [https://github.com/harshrajshs]
-
-## 💡 Fun Fact
-
-When I'm not coding or studying, I love exploring new tech gadgets and reading up on the latest trends in AI and cybersecurity. I'm also a big fan of sci-fi movies and enjoy experimenting with DIY electronics projects in my spare time.
-
-## 🤝 Open to Opportunities
-
-I'm always on the lookout for exciting projects, internships, and collaborations where I can apply my skills and learn new things. Feel free to reach out if you have something in mind!
-
-
-update this redme and write using html tags and make it more attractive
+<!-- Open to Opportunities -->
+================
+<h3>I'm always looking for exciting projects, internships, and collaborations. Feel free to reach out!</h3>
