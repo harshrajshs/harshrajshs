@@ -62,3 +62,6 @@ When I'm not coding or studying, I love exploring new tech gadgets and reading u
 ## 🤝 Open to Opportunities
 
 I'm always on the lookout for exciting projects, internships, and collaborations where I can apply my skills and learn new things. Feel free to reach out if you have something in mind!
+
+
+update this redme and write using html tags and make it more attractive
