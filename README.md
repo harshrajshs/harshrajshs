@@ -51,9 +51,9 @@ Hello! I'm Harsh Raj, currently a 3rd-year B.Tech student majoring in Data Scien
 
 ## 📫 How to Reach Me
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [harsh.raj@iitg.ac.in]
+- **LinkedIn**: [https://www.linkedin.com/in/harsh-raj-13b100241/]
+- **GitHub**: [https://github.com/harshrajshs]
 
 ## 💡 Fun Fact
 
